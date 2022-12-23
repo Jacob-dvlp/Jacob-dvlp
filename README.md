@@ -1,5 +1,1 @@
-Olá, sou Jacob Larte. 
-Sou um desenvolvedor Mobile, trabalho com programação desde 2016 e tenho aprendido muitas coisas fascinantes com nessa área de TI
-Sou um desenvolvedor mobile com a  melhor tecnólogia da google #FLUTTER mais #DART uma  junção perfeita, 3 anos de Experiências usando essa linda tecnólogia da google
-Amo aprender e ter novas experiências
-Tenho a facilidade de aprender outras tecnologias.
+Sou um desenvolvedor Mobile, trabalho com programação desde 2016 e tenho aprendido muitas coisas fascinantes nessa área de TI  Gosto de aprender coisas novas e me aprofundar em tudo que estou aprender. Sou criativo, comunicativo, perseverante e responsável. Esforço-me cada vez mais para obter autoaperfeiçoamento, busco oportunidades para expandir os meus horizontes e explorar o desconhecido. Encaro cada dificuldade como um desafio e oportunidade de evolução. Tenho experiência com Flutter tanto para iOS e Android. e estou estudando Kotlin
